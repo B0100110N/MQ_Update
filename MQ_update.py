@@ -25,7 +25,9 @@ def ready_to_begin():
             exit()                                                                                      
     return
    
-   
+
+#will be adding a scoring system to questions later.
+
 def question0():
     print('What is 1 + 1?')
     answer = input('Answer: ')
